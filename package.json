@@ -1,0 +1,11 @@
+{
+  "name": "caminha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moiseshilario/caminha.git",
+  "author": "moiseshilario",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
